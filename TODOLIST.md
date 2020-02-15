@@ -10,6 +10,7 @@
 * Faire l'ANOVA sur les périodes 75-90 et 60-75
 * Réparer l'ACP
 * Chercher la décomposition de la conso par produits, à défaut trouver le mode de publication (fréquence et lag)
+* Réviser ce qu'est l'ACP (prendre un poly et se motiver pour étudier quoi)
 * Prendre de l'avance sur le cours de séries temporelles
 * Compléter un rapport sur la méthode de calcul (de la manière la plus précise possible) des dépenses de consommation
 
