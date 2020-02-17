@@ -7,7 +7,7 @@
 * Faire les graphes sur l'évolution des variables officielles, étudier la corrélation avec la dépense de conso des ménages **À compléter de préférence avant le 28/02/2020**.
 
 ## À faire dans un 2nd temps
-* Faire l'ANOVA sur les périodes 75-90 et 60-75
+* Faire l'ANOVA sur les périodes 75-90 et 60-75 (tu penses ? vu qu'ils nous ont dit de nous concentrer sur les données depuis 1990 j'aurais plutot dit qu'il fallait diviser les périodes sur la plage 1990-2020 (ex 1990-2000 ; 2000-2010 ; 2010-2020).
 * Réparer l'ACP
 * Chercher la décomposition de la conso par produits, à défaut trouver le mode de publication (fréquence et lag)
 * Réviser ce qu'est l'ACP (prendre un poly et se motiver pour étudier quoi)
