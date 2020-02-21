@@ -1,7 +1,7 @@
 # To-do-list du projet statapp
 
 ## Prioritaire
-* Rédiger le rapport. **Deadline: 18/02/2020 à 18h**
+* Rédiger le rapport. **Deadline: 18/02/2020 à 18h** *OK*
 * Tenir au courant Q3 de l'avancée du projet via Slack. A faire dans la semaine **du 17/02/2020 au 22/02/2020**.
 * Bien déterminer toutes les variables officielles à prendre, **du 17/02/2020 au 22/02/2020**.
 * Faire les graphes sur l'évolution des variables officielles, étudier la corrélation avec la dépense de conso des ménages **À compléter de préférence avant le 28/02/2020**.
