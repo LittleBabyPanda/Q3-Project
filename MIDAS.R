@@ -17,7 +17,6 @@ y_test = ytyvar[26:35]
 X_brut_train = X_brut[1:75,]
 X_brut_test = X_brut[76:105,]
 
-
 x1 <- as.vector(as.matrix(select(X_brut_train,1)))
 x2 <- as.vector(as.matrix(select(X_brut_train,2)))
 x3 <- as.vector(as.matrix(select(X_brut_train,3)))
@@ -46,7 +45,7 @@ ndt = list(
 )
 
 forecast(model2,newdata=ndt)
-
+summary(model3)
 hf = c()
 mixed = c()
 for (i in 2:ncol(X_brut)){
